@@ -1,5 +1,6 @@
-<img width="1917" height="938" alt="Screenshot 2026-03-04 041303" src="https://github.com/user-attachments/assets/cd74d2a4-6e09-45e1-b3b2-ee7a3c641a81" />
 <img width="1912" height="942" alt="12026-03-29 010706" src="https://github.com/user-attachments/assets/991e8bb6-ba35-4bc8-8f22-ad00906940cc" />
+<img width="1911" height="939" alt="Screenshot 2026-03-29 010816" src="https://github.com/user-attachments/assets/a8e521d6-ef33-41f7-b3ab-c1a6b305b9b9" />
+
 
 # Meta Analyzer
 
